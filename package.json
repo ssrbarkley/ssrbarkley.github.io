@@ -33,7 +33,7 @@
     "gatsby-transformer-remark": "^2.6.33",
     "graphql-typescript-definitions": "^0.17.3",
     "localforage": "^1.7.3",
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "react": "^16.12.0",
     "react-device-detect": "^1.9.10",
     "react-dom": "^16.12.0",
